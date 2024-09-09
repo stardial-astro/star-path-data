@@ -1,4 +1,4 @@
-# star-path-data
+# Star Path Viewer - Data
 
 Hosts data for the [React client](https://github.com/stardial-astro/star-path-viewer) of the website [Star Path Viewer](https://stardial-astro.github.io/star-path-viewer).
 
@@ -9,6 +9,8 @@ Hosts data for the [React client](https://github.com/stardial-astro/star-path-vi
 - Hipparchus Catalogue Numbers, Bayer Designations, Proper Names, and Chinese Names
 
   [hip_ident_zh.json](https://stardial-astro.github.io/star-path-data/json/hip_ident_zh.json)
+
+The CSV version of these files are in [the original repository](https://github.com/claude-hao/star-path-calculator/tree/main/data).
 
 ## Resources
 
