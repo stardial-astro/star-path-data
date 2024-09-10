@@ -1,6 +1,6 @@
 # Star Path Viewer - Data
 
-Hosts data for the [React client](https://github.com/stardial-astro/star-path-viewer) of the website [Star Path Viewer](https://stardial-astro.github.io/star-path-viewer).
+Hosts data for the [React client](https://github.com/stardial-astro/star-path-viewer) of the website [Star Path Viewer](https://star-path-viewer.pages.dev/).
 
 - Hipparchus Catalogue Numbers, Bayer Designations, and Proper Names
 
