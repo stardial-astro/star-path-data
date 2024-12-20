@@ -1,12 +1,12 @@
 # Star Path Viewer - Data
 
-Hosts data for the [React client](https://github.com/stardial-astro/star-path-viewer) of the website [Star Path Viewer](https://star-path-viewer.pages.dev/).
+Hosts data for the [React client](https://github.com/stardial-astro/star-path-viewer) of [Star Path Viewer](https://star-path-viewer.pages.dev/).
 
-- Hipparchus Catalogue Numbers, Bayer Designations, and Proper Names
+- Hipparcos Catalogue Numbers, Bayer Designations, and Proper Names
 
   [hip_ident.json](https://stardial-astro.github.io/star-path-data/json/hip_ident.json)
 
-- Hipparchus Catalogue Numbers, Bayer Designations, Proper Names, and Chinese Names
+- Hipparcos Catalogue Numbers, Bayer Designations, Proper Names, and Chinese Names
 
   [hip_ident_zh.json](https://stardial-astro.github.io/star-path-data/json/hip_ident_zh.json)
 
@@ -14,23 +14,12 @@ The CSV version of these files are in [the original repository](https://github.c
 
 ## Resources
 
-- Hipparchus Catalogue
+- [The Hipparcos and Tycho Catalogues](https://www.cosmos.esa.int/web/hipparcos/catalogues) [[FTP](https://cdsarc.cds.unistra.fr/ftp/cats/I/239)]
 
-  [The Hipparcos and Tycho Catalogues](https://www.cosmos.esa.int/web/hipparcos/catalogues)
-  [FTP](https://cdsarc.cds.unistra.fr/ftp/cats/I/239) (DE406)
+- Bayer Designation and Proper Name [[FTP (ident4, ident6)](https://cdsarc.cds.unistra.fr/ftp/I/239/version_cd/tables)]
 
-- Bayer Designation and Proper Name
+- Chinese Star Names: [Hong Kong Observatory](https://web.archive.org/web/20120209032035/http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars.htm)
 
-  [FTP](https://cdsarc.cds.unistra.fr/ftp/I/239/version_cd/tables) (ident4, ident6)
+- Traditional Chinese to Simplified Chinese Conversion: [Open Chinese Convert](https://pypi.org/project/OpenCC)
 
-- Chinese Star Names
-
-  [Hong Kong Observatory](https://web.archive.org/web/20120209032035/http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars.htm)
-
-- Traditional Chinese to Simplified Chinese Conversion
-
-  [Open Chinese Convert](https://pypi.org/project/OpenCC)
-
-- Chinese Characters to Pinyin Conversion
-
-  [pypinyin](https://github.com/mozillazg/python-pinyin)
+- Chinese Characters to Pinyin Conversion: [pypinyin](https://github.com/mozillazg/python-pinyin)
