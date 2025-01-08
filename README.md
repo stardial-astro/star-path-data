@@ -10,13 +10,13 @@ Hosts data for the [React client](https://github.com/stardial-astro/star-path-vi
 
   [hip_ident_zh.json](https://stardial-astro.github.io/star-path-data/json/hip_ident_zh.json)
 
-The CSV version of these files are in [the original repository](https://github.com/claude-hao/star-path-calculator/tree/main/data).
+The CSV version of these files are in [the source code repository](https://github.com/claude-hao/star-path-calculator/tree/main/data).
 
 ## Resources
 
 - [The Hipparcos and Tycho Catalogues](https://www.cosmos.esa.int/web/hipparcos/catalogues) [[FTP](https://cdsarc.cds.unistra.fr/ftp/cats/I/239)]
 
-- Bayer Designation and Proper Name [[FTP (ident4, ident6)](https://cdsarc.cds.unistra.fr/ftp/I/239/version_cd/tables)]
+- Bayer Designation and Proper Name [[FTP](https://cdsarc.cds.unistra.fr/ftp/I/239/version_cd/tables) (ident4, ident6)]
 
 - Chinese Star Names: [Hong Kong Observatory](https://web.archive.org/web/20120209032035/http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars.htm)
 
